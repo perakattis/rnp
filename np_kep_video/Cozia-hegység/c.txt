@@ -1,0 +1,10 @@
+Cozia-hegység
+
+A Cozia-hegység a Fogarasi-havasok déli nyúlványa, az Olt bal partján a Déli-Kárpátokban, Romániában. Magashegység, a történelmi Regát területén fekszik.
+Hely	Vâlcea megye
+Hegység	Déli-Kárpátok
+Legmagasabb pont	Cozia-hegy, Ciuha Mare (1668 m)
+Terület	77 km2
+Világörökség-azonosító	1133ter-053
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22444.73698147417!2d24.31273373786112!3d45.31666429857199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474d19140bc02f6f%3A0x3ebb33434754664b!2sMuntele%20Cozia!5e0!3m2!1shu!2shu!4v1710858706991!5m2!1shu!2shu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

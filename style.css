@@ -1,0 +1,90 @@
+.navbar-cim {
+    font-size: 25px;
+    color: black;
+}
+.linkek span {
+    font-family: sans-serif;
+}
+.navbar-bg {
+    background-image: url(img/navbar-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.alahuzas {
+    display: inline-block;
+    position: relative;
+    font-family: monospace;
+  
+  }
+  
+  .alahuzas::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .alahuzas:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+.contactCim {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.frame {
+    background-image: url(img/frame.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.wrapper {
+
+
+  background: linear-gradient(124deg, cornflowerblue, cornflowerblue, darkkhaki,darkkhaki, indianred, indianred);
+  background-size: 200% 200%;
+  -webkit-animation: rainbow 9s ease infinite;
+  -z-animation: rainbow 9s ease infinite;
+  -o-animation: rainbow 9s ease infinite;
+  animation: rainbow 9s ease infinite;}
+  @-webkit-keyframes rainbow {
+     0%{background-position:0% 82%}
+     50%{background-position:100% 19%}
+     100%{background-position:0% 82%}
+  }
+  @-moz-keyframes rainbow {
+     0%{background-position:0% 82%}
+     50%{background-position:100% 19%}
+     100%{background-position:0% 82%}
+  }
+  @-o-keyframes rainbow {
+     0%{background-position:0% 82%}
+     50%{background-position:100% 19%}
+     100%{background-position:0% 82%}
+  }
+  @keyframes rainbow {
+     0%{background-position:0% 82%}
+     50%{background-position:100% 19%}
+     100%{background-position:0% 82%}
+  }
+
+.focimke {
+  text-align: center; position: relative; font-size: 60px; top:250px; font-family: sans-serif;
+  text-shadow: 0px 3px 2px rgba(0,0,0,0.4),
+             0px 5px 10px rgba(0,0,0,0.1),
+             0px 10px 15px rgba(0,0,0,0.1);
+}
+.park-cim 
+{
+  text-align: center;
+  font-family: sans-serif;
+  color: #000;
+  font-size: 70px;
+}
+

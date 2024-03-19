@@ -1,0 +1,13 @@
+Kelemen-havasok Nemzeti Park
+
+A Kelemen-havasok Nemzeti Park Románia nemzeti parkjainak egyike, területén természetes lombhullató, vegyes- és fenyőerdőkkel, valamint szubalpesi és alpesi régiót foglal magába gazdag, változatos növény és állatvilággal. Területe 24 041 hektár, három megye: Maros, Hargita és Suceava felszínén.
+
+A Nemzeti park az IUCN-osztályozás szerint a II. kategóriába van sorolva.
+
+A park területén a következő természetvédelmi területek vannak:
+
+-Jnepeniş cu Pinus cembra Tudományos Rezervátum (IUCN I-es kategória)
+-Tizenkét Apostol Emlékpark (IUCN III-as kategória)
+-Kelemen Jézer-tó Különleges Élőhely (IUCN IV-es kategória)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d173507.469270595!2d25.09525022487788!3d47.19595153416237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474a74470a5bc955%3A0x2e220842148ba79!2sKelemen-havasok%20Nemzeti%20Park!5e0!3m2!1shu!2shu!4v1710857656644!5m2!1shu!2shu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
